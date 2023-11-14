@@ -1,0 +1,4 @@
+C:\Users\katyolkin.pa\source\repos\PodgotovkaOne\PodgotovkaOne\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\katyolkin.pa\source\repos\PodgotovkaOne\PodgotovkaOne\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\katyolkin.pa\source\repos\PodgotovkaOne\PodgotovkaOne\obj\Debug\net7.0-windows\PodgotovkaOne_MarkupCompile.cache
+C:\Users\katyolkin.pa\source\repos\PodgotovkaOne\PodgotovkaOne\obj\Debug\net7.0-windows\PodgotovkaOne_MarkupCompile.lref
